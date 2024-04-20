@@ -7,7 +7,7 @@ Bu Java programı, Comparator arayüzünün kullanımını gösterir ve lambda i
 Bu dosya, Comparator arayüzünün kullanımını gösteren ana sınıftır.
 - main(): Programın ana metodu. Öğrenci nesnelerini oluşturur, sıralar ve ekrana yazdırır.
 
-2.Student.java
+2. Student.java
 
 Bu dosya, Student adında bir sınıf tanımlar.
 - Student: Öğrencilerin özelliklerini (numara, isim, not ortalaması) içeren bir sınıftır.
