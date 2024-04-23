@@ -23,3 +23,8 @@ Her bir örnek sınıfı, ilgili sınıfın özelliklerini ve kullanımını gö
 
 ## Kaynaklar
 Bu proje, Java'nın resmi java.time paketi ve LocalDateTime ve LocalTime sınıfları hakkında daha fazla bilgi için Oracle'ın Java belgelerine başvurur.
+
+
+![image](https://github.com/esmanur-karatas/NewWithJava8/assets/83882274/abeb8d6c-4c32-405c-8244-be8148c49a9c)
+
+![image](https://github.com/esmanur-karatas/NewWithJava8/assets/83882274/e7f5a40d-ba43-414a-9279-97b890ddb27f)
